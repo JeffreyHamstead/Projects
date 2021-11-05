@@ -1,2 +1,2 @@
 # Projects
-This is a simple digital clock that I created with Python 
+These are my Python projects to get started with programming.
